@@ -3,7 +3,7 @@ package otroarbol;
 import java.util.ArrayList;
 
 /**
- * ferch
+ * Eduardo
  */
 public class ArbolGeneral<E>
 {

@@ -3,7 +3,7 @@ package otroarbol;
 import java.util.ArrayList;
 
 /**
- * ferch
+ * ktomas
  */
 public class NodoGeneral<E> implements Elemento<E>
 {

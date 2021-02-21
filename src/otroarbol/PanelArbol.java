@@ -7,7 +7,7 @@ import java.util.HashMap;
 import javax.swing.JPanel;
 
 /**
- * ferch
+ * Alex
  */
 public class PanelArbol<E> extends JPanel
 {
